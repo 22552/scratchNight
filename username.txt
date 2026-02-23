@@ -32,10 +32,10 @@ Sub-kintetsu
 KurabuBON
 mizuzora_Ame
 a0d4
-zentoyo_
 100karuta
 soikoi
 Gemini97
+zentoyo_
 Lemonade-129
 Aki_Ghost
 Shimako-Hito
@@ -92,7 +92,6 @@ F-2_SUPER-Kai
 raito_1852
 SY_2
 Lemonade_1103
-Ziminto
 animekenn
 kyozin_gohan
 Arfise_ngo
@@ -100,6 +99,7 @@ UMAEM0N
 __Xa7e
 Elvira_Tiger
 okasa-_-senzoku_C
+Ziminto
 205aaa
 kk10000
 IIlIIllIl
