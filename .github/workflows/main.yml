@@ -2,15 +2,19 @@ name: Ranking Bot
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # 6時間ごと（UTC）
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   run:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -19,3 +23,11 @@ jobs:
 
       - name: Run bot
         run: node bot.js
+
+      - name: Commit and Push
+        run: |
+          git config user.name "ranking-bot"
+          git config user.email "bot@example.com"
+          git add ranking.md username.txt
+          git commit -m "update ranking" || echo "no changes"
+          git push
