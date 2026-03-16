@@ -2,11 +2,13 @@
 
 対象: 過去24時間
 
-- コメント総数: 565
-- 返信総数: 651
-- 参加人数: 99
+- コメント総数: 566
+- 返信総数: 652
+- 参加人数: 100
 
-{{site.github.build_revision}}---
+{{site.github.build_revision}}
+{{ site.time | date: "%Y-%m-%d" }}
+---
 
 **1位 Aki_Ghost**  
 合計: 131（コメント 45 / 返信 86）
@@ -33,7 +35,7 @@
 合計: 44（コメント 10 / 返信 34）
 
 **9位 humanoi066**  
-合計: 36（コメント 22 / 返信 14）
+合計: 37（コメント 22 / 返信 15）
 
 **10位 thi-dano**  
 合計: 35（コメント 25 / 返信 10）
@@ -224,84 +226,87 @@
 **72位 tatsuscratch**  
 合計: 2（コメント 0 / 返信 2）
 
-**73位 xc28**  
+**73位 sinnyuu_love**  
 合計: 1（コメント 1 / 返信 0）
 
-**74位 Ponponsuke**  
+**74位 xc28**  
 合計: 1（コメント 1 / 返信 0）
 
-**75位 oeo13**  
+**75位 Ponponsuke**  
 合計: 1（コメント 1 / 返信 0）
 
-**76位 ofutoniniru**  
+**76位 oeo13**  
 合計: 1（コメント 1 / 返信 0）
 
-**77位 otoya12_KASOMIN**  
+**77位 ofutoniniru**  
 合計: 1（コメント 1 / 返信 0）
 
-**78位 Aww_clldef**  
+**78位 otoya12_KASOMIN**  
 合計: 1（コメント 1 / 返信 0）
 
-**79位 su-pa-minnto**  
+**79位 Aww_clldef**  
 合計: 1（コメント 1 / 返信 0）
 
-**80位 kk10000**  
+**80位 su-pa-minnto**  
 合計: 1（コメント 1 / 返信 0）
 
-**81位 sulumeikanurupo**  
+**81位 kk10000**  
 合計: 1（コメント 1 / 返信 0）
 
-**82位 WH_818**  
+**82位 sulumeikanurupo**  
 合計: 1（コメント 1 / 返信 0）
 
-**83位 kaeru_ds**  
+**83位 WH_818**  
 合計: 1（コメント 1 / 返信 0）
 
-**84位 MEGAlilsls5362**  
+**84位 kaeru_ds**  
 合計: 1（コメント 1 / 返信 0）
 
-**85位 zyagariko_L**  
+**85位 MEGAlilsls5362**  
 合計: 1（コメント 1 / 返信 0）
 
-**86位 Kappa_567**  
+**86位 zyagariko_L**  
 合計: 1（コメント 1 / 返信 0）
 
-**87位 TUKU_chama**  
+**87位 Kappa_567**  
 合計: 1（コメント 1 / 返信 0）
 
-**88位 yaki-tori-niku**  
+**88位 TUKU_chama**  
 合計: 1（コメント 1 / 返信 0）
 
-**89位 ayaka-uncertainty**  
+**89位 yaki-tori-niku**  
 合計: 1（コメント 1 / 返信 0）
 
-**90位 tsubasa333**  
+**90位 ayaka-uncertainty**  
 合計: 1（コメント 1 / 返信 0）
 
-**91位 naitomario**  
+**91位 tsubasa333**  
 合計: 1（コメント 1 / 返信 0）
 
-**92位 sankyu-3705**  
+**92位 naitomario**  
 合計: 1（コメント 1 / 返信 0）
 
-**93位 zentoyo_**  
+**93位 sankyu-3705**  
 合計: 1（コメント 1 / 返信 0）
 
-**94位 3150dayo_2**  
+**94位 zentoyo_**  
 合計: 1（コメント 1 / 返信 0）
 
-**95位 -humohumo-**  
+**95位 3150dayo_2**  
 合計: 1（コメント 1 / 返信 0）
 
-**96位 KK_Y53**  
+**96位 -humohumo-**  
 合計: 1（コメント 1 / 返信 0）
 
-**97位 arikitarina-kuroari**  
+**97位 KK_Y53**  
+合計: 1（コメント 1 / 返信 0）
+
+**98位 arikitarina-kuroari**  
 合計: 1（コメント 0 / 返信 1）
 
-**98位 Kerondayo**  
+**99位 Kerondayo**  
 合計: 1（コメント 0 / 返信 1）
 
-**99位 xiagomiultra**  
+**100位 xiagomiultra**  
 合計: 1（コメント 0 / 返信 1）
 
