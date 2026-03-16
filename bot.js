@@ -107,7 +107,7 @@ async function parallelMap(arr, limit, fn) {
   md += `- コメント総数: ${totalComments}\n`;
   md += `- 返信総数: ${totalReplies}\n`;
   md += `- 参加人数: ${users.size}\n\n`;
-  md += "{{site.github.build_revision}}"
+  md += `{{site.github.build_revision}}\n{{ site.time | date: "%Y-%m-%d" }}\n`;
   md += `---\n\n`;
 
   ranking.forEach((u, i) => {
