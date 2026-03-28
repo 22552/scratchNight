@@ -107,7 +107,7 @@ async function parallelMap(arr, limit, fn) {
   md += `- コメント総数: ${totalComments}\n`;
   md += `- 返信総数: ${totalReplies}\n`;
   md += `- 参加人数: ${users.size}\n\n`;
-  md += `{{ page.last_modified_at | date: "%Y-%m-%d" }}\n\n`;
+  md += `更新: {{ 'now' | date: "%Y-%m-%d %H:%M:%S" }}\n\n`;
   md += `---\n\n`;
 
   ranking.forEach((u, i) => {
